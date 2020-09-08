@@ -12,3 +12,22 @@
     color: darkgreen;
     
 }
+.titulo-como-assistir {
+    background-color: lightgreen;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    
+
+}
+
+body {
+    background-color: greenyellow;
+}
+
+.titulo-carousel {
+    font-size: 28px;
+}
+.p-carousel {
+    font-size: 18px;
+}
